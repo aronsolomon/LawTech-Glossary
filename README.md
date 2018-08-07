@@ -65,6 +65,8 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **Hash** The output of a hashing algorithm, a hash is a short string of characters that represents the contents of a document. The contents of the document cannot be recreated from the hash and the algorithm is very sensitive to changes so a single character change will lead to a completely different hash. Hashes are useful for proving that a document hasn’t been changed.
 
+**Hashtag Hysteria** A fiction bred by industry vampyres in which Twitter hashtags are created and disseminated for the purpose of increasing traffic and attention to specious for-profit law companies/lawcompanies.
+
 **Intake** The first part of the contracting process (from the perspective of the legal department) when the business requests support from the legal team.
 
 **Key performance Indicator** A measure used to track the status of a critical part of a process, that can be used to determine whether a supplier (no-one knowingly imposes a KPI on themselves) is delivering to the required standard. Also referred to as a service level in the context of contractual obligations.
